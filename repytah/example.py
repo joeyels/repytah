@@ -18,7 +18,7 @@ aligned hierarchies when a CSV file with extracted features is the input.
 
 The module contains the following functions:
     
-    * load_eg_data
+    * load_ex_data
         Reads in a csv input file with extracted features.
 
     * csv_to_aligned_hierarchies
